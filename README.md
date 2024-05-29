@@ -1,4 +1,5 @@
 # git_demo
-author - Indar
+author - Indar(vishwakarma)
 <br>
 this is my git repo
+(indrajeet vishwakarm)
